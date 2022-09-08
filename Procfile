@@ -1,0 +1,1 @@
+web: gunicorn victoriadjango.wsgi --log-file -
